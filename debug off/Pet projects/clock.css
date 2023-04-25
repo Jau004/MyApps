@@ -1,0 +1,14 @@
+body {
+    font-size: 800%;
+    background-image: url("https://cdn.wallpapersafari.com/35/36/PD2dpc.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    background-color: black;
+}
+
+#clock {
+    color:aliceblue;
+    text-align: center;
+    margin-top: 25%;
+    text-decoration: wavy;
+}
